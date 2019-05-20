@@ -11,7 +11,7 @@ One thing you need to know is to Login again to see changes in AdminLoginForm.
 No Pictures are used.
 
 ---------------------------
-[Aung Myint Myat Oo]----
+[Aung Myint Myat Oo]
 [3CS-125]
 [C]
 [UCSY]
